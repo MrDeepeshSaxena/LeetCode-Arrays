@@ -1,4 +1,4 @@
-public class Build_Array_from_Permutation_1929 {
+public class Build_Array_from_Permutation_1920 {
     public int[] buildArray(int[] nums) {
 
          // Created an ans Array, whose length is equal to the length of nums Array
