@@ -15,7 +15,7 @@ public class Baseball_Game_682 {
                     break;
                 case "D":
                     scores.push(scores.peek() * 2);
-                    break;
+                    break;  
                 case "C":
                     scores.pop();
                     break;
