@@ -25,3 +25,4 @@ public class Lucky_Numbers_in_a_Matrix_1380 {
             res = Math.max(res, matrix[i][j]);
         return res;
     }
+}
