@@ -16,6 +16,7 @@ public class Find_the_Sum_of_Encrypted_Integers_3069 {
         if (k < 10) {
             return k;
         }
+
         int n = String.valueOf(k).length();
         String s = String.valueOf(k);
         int max = 0;
