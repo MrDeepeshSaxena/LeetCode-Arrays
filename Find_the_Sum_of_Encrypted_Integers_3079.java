@@ -1,9 +1,4 @@
 public class Find_the_Sum_of_Encrypted_Integers_3079 {
-    public static void main(String[] args) {
-        int[] nums = {10, 21, 31};
-        System.out.println(sumOfEncryptedInt(nums));
-    }
-
     public static int sumOfEncryptedInt(int[] nums) {
         int sum = 0;
         for (int i = 0; i < nums.length; i++) {
