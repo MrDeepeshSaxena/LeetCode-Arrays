@@ -17,7 +17,6 @@ public class Find_Missing_and_Repeated_Values_2965 {
             if (count[i] == 0)
                 missing = i;
         }
-
         return new int[]{repeated, missing};
     }
 }
