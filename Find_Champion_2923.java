@@ -20,7 +20,6 @@ public class Find_Champion_2923 {
                 ++count;
                 ans = i;
             }
-
         return count > 1 ? -1 : ans;
     }
 }
