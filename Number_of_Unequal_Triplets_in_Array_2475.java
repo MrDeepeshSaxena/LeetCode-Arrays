@@ -16,6 +16,7 @@ public class Number_of_Unequal_Triplets_in_Array_2475 {
             ans += prev * freq * next;
             prev += freq;
         }
+
         return ans;
     }
 }
