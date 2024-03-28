@@ -5,6 +5,7 @@ public class Single_Number_136 {
         for (final int num : nums)
             ans ^= num;
 
+        //Returning the answer
         return ans;
     }
 }
