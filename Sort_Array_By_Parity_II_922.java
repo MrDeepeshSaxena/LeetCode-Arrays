@@ -13,7 +13,6 @@ public class Sort_Array_By_Parity_II_922 {
                 nums[j] = temp;
             }
         }
-
         return nums;
     }
 }
