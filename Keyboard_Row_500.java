@@ -14,7 +14,6 @@ public class Keyboard_Row_500 {
             if (isValid)
                 ans.add(word);
         }
-
         return ans.toArray(new String[0]);
     }
 }
