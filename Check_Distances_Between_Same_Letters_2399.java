@@ -12,7 +12,6 @@ public class Check_Distances_Between_Same_Letters_2399 {
                 return false;
             firstSeenIndex[j] = i;
         }
-
         return true;
     }
 }
