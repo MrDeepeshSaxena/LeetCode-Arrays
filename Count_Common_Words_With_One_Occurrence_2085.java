@@ -13,5 +13,6 @@ public class Count_Common_Words_With_One_Occurrence_2085 {
                 count.merge(word, -1, Integer::sum);
 
         return (int) count.values().stream().filter(v -> v == 0).count();
+
     }
 }
