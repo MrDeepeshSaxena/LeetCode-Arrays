@@ -9,7 +9,6 @@ public class Can_Make_Arithmetic_Progression_From_Sequence_1502 {
                 return false;
             }
         }
-
         return true;
     }
 }
