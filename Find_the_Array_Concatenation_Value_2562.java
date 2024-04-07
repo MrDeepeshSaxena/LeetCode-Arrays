@@ -9,7 +9,6 @@ public class Find_the_Array_Concatenation_Value_2562 {
             if (i < j)
                 ans += nums.get(i) * Math.pow(10, (int) (Math.log10(nums.get(j))) + 1);
         }
-
         return ans;
     }
 }
