@@ -12,6 +12,7 @@ public class Buy_Two_Chocolates_2706 {
             }
 
         final int minCost = min1 + min2;
+
         return minCost > money ? money : money - minCost;
     }
 }
