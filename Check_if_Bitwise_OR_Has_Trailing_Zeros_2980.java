@@ -7,5 +7,6 @@ public class Check_if_Bitwise_OR_Has_Trailing_Zeros_2980 {
                 ++countEven;
 
         return countEven >= 2;
+
     }
 }
