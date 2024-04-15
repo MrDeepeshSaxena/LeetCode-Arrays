@@ -18,6 +18,7 @@ public class Minimum_Absolute_Difference_1200 {
             if (diff == min)
                 ans.add(Arrays.asList(arr[i], arr[i + 1]));
         }
+
         return ans;
     }
 }
