@@ -16,9 +16,9 @@ public class Count_Pairs_Of_Similar_Strings_2506 {
 
     private int getMask(final String word) {
         int mask = 0;
-        for (char c :word.toCharArray())
-        mask |= 1 << c - 'a';
+        for (char c :word.toCharArray()) {
+            mask |= 1 << c - 'a';
+        }
         return mask;
-
     }
 }
