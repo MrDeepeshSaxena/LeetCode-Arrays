@@ -20,6 +20,5 @@ public class Count_Pairs_Of_Similar_Strings_2506 {
             mask |= 1 << c - 'a';
         }
         return mask;
-
     }
 }
