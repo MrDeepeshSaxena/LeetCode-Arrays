@@ -10,6 +10,5 @@ public class Array_Partition_561 {
             ans += nums[i];
 
         return ans;
-
     }
 }
