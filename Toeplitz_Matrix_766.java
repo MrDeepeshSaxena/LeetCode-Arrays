@@ -6,5 +6,4 @@ public class Toeplitz_Matrix_766 {
                     return false;
         return true;
     }
-
 }
