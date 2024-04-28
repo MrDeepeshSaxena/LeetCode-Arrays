@@ -19,7 +19,6 @@ public class Available_Captures_for_Rook_999 {
                 if (board[i][j] != '.')
                     break;
             }
-
         return ans;
 
     }
