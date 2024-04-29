@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -18,7 +19,6 @@ public class Find_Common_Characters_1002 {
         for (char c = 'a'; c <= 'z'; ++c)
             for (int i = 0; i < commonCount[c - 'a']; ++i)
                 ans.add(String.valueOf(c));
-
 
         return ans;
     }
