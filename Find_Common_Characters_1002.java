@@ -21,5 +21,6 @@ public class Find_Common_Characters_1002 {
                 ans.add(String.valueOf(c));
 
         return ans;
+
     }
 }
