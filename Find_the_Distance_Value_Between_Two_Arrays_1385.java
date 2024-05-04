@@ -12,7 +12,6 @@ public class Find_the_Distance_Value_Between_Two_Arrays_1385 {
             if ((i == arr2.length || arr2[i] - a > d) && (i == 0 || a - arr2[i - 1] > d))
                 ++ans;
         }
-
         return ans;
 
     }
