@@ -12,7 +12,6 @@ public class Number_of_Lines_To_Write_String_806 {
                 runningWidth = width;
             }
         }
-
         return new int[]{numLines, runningWidth};
     }
 }
