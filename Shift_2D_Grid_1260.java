@@ -24,6 +24,5 @@ public class Shift_2D_Grid_1260 {
             ans.add(Arrays.stream(row).boxed().collect(Collectors.toList()));
 
         return ans;
-
     }
 }
