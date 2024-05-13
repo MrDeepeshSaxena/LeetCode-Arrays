@@ -25,5 +25,4 @@ public class Relative_Ranks_506 {
 
         return ans;
     }
-
 }
